@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: a small ai 🚀.<br><br>🌱 I’m currently diving deeper into full-stack development.<br><br>💬 Ask me about: web development, Minecraft plugin and AIs, or anything Java, PHP, CSS, JS, HTML, and SEO related!<br><br>⚡ Fun fact: Being a student doesn’t stop me from contributing to projects or creating my own!
+Ask me about: web development, Minecraft plugin and AIs, or anything Java, PHP, CSS, JS, HTML, and SEO related!
 
 
 ## 🌐 Socials:
