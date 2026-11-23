@@ -37,8 +37,3 @@ Full-stack developer from France 🇫🇷, graduated from BUT MMI (Web Developme
 
 ![Contributions & streak](./metrics/streak.svg)
 
-## 🏆 Achievements
-![Achievements](./metrics/achievements.svg)
-
----
-![Profile views](https://komarev.com/ghpvc/?username=louis-potevin&style=for-the-badge&color=blueviolet&label=Profile+views)
