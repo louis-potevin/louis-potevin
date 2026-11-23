@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Louis Potevin
 
-Full-stack developer from France 🇫🇷, graduated from BUT MMI (Web Development & Interactive Devices) in 2026, with ~16 months of experience building internal web apps at **Legrand France**.
+Full-stack developer from France 🇫🇷, graduated from BUT MMI (Web Development & Interactive Devices) in 2026, with ~16 months of experience building internal web apps at **Legrand**.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-louis--potevin.dev-000000?style=for-the-badge&logo=astro&logoColor=white)](https://louis-potevin.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/louis-potevin/) [![Email](https://img.shields.io/badge/Email-contact%40louis--potevin.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@louis-potevin.dev) [![Nova Projects](https://img.shields.io/badge/Nova%20Projects-unkn0wndo3s-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/unkn0wndo3s)
 
 # 💫 About Me
-- Mostly working with **TypeScript**, **Vue.js**, **Node.js** and **java**, and more and more **Rust**
+- Mostly working with **TypeScript**, **Vue.js**, **Node.js** and **Java**, and more and more **Rust**
 - Exploring local AI & LLMs (inference, training from scratch, agents)
 - Self-hosting enthusiast, daily driving Linux
 - This account hosts my university & coursework projects, serious personal work lives on [@unkn0wndo3s](https://github.com/unkn0wndo3s)
@@ -28,21 +28,17 @@ Full-stack developer from France 🇫🇷, graduated from BUT MMI (Web Developme
 
 **Tools & Infra**
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=louis-potevin&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=louis-potevin&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=louis-potevin&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![GitHub stats](./metrics/stats.svg)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=louis-potevin&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![Top languages](./metrics/languages.svg)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=louis-potevin&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![Contributions & streak](./metrics/streak.svg)
+
+## 🏆 Achievements
+![Achievements](./metrics/achievements.svg)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=louis-potevin&icon=0&color=0)](https://visitcount.itsvg.in)
-
-## 💰 You can help me by Donating
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ptvnvigne) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/louis-potevin)
+![Profile views](https://komarev.com/ghpvc/?username=louis-potevin&style=for-the-badge&color=blueviolet&label=Profile+views)
